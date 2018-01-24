@@ -1,0 +1,10 @@
+# Jekyll
+_site
+.sass*
+*.lock
+
+# OS
+.DS_Store
+
+# Other
+.Ulysses*
