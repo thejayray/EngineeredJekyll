@@ -1,4 +1,13 @@
-# About
+---
+title: About
+permalink: /about/
+categories:
+    - meta
+---
+
+
+## EngineeredJekyll [![CircleCI](https://circleci.com/gh/thejayray/thejayray.github.io.svg?style=svg)](https://circleci.com/gh/thejayray/thejayray.github.io)
+
 
 Hi, I’m Jay Ray. I once had a Tumblr blog that became the catchall for the things I preferred to share with my friends and others on the web. Although I enjoy link lists as a way to get my news and reading material each day, I was astounded, looking back, at how little of what I wrote and shared mattered to me after time had passed. In my hope to create something of value and a place where my writing could be separate from the other slough, Engineered Eloquence was born.
 

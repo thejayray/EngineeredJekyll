@@ -18,8 +18,8 @@ micro_json: https://engineeredeloquence.com/feed/micro.json
 twitter: https://twitter.com/eloquentfeed
 
 # Authentication
-key_fingerprint: 6391E804
-key_path: /keys/6391E804.txt
+key_fingerprint: 12BF36155110E71432713FB8DE961DEEB6935B41
+key_path: /keys/12BF36155110E71432713FB8DE961DEEB6935B41.txt
 key_path_friendly: /publickey/
 
 # Layout
